@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <div>
-      <h1 class="title"></h1>
+      <h1 class="title">アセットレンディング</h1>
       <h2 class="subtitle">My exquisite Nuxt.js projectttt</h2>
       <Button @click="click">hogehoge</Button>
     </div>
@@ -27,7 +27,7 @@ export default {
 <style>
 .container {
   margin: 0 auto;
-  min-height: 100vh;
+  min-height: 90vh;
   display: flex;
   justify-content: center;
   align-items: center;
